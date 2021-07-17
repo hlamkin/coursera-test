@@ -3,7 +3,7 @@
 ```markdown
 Buy one, get one 15% off!
 ```
-[Callaway Golf Preowned](https://callawaygolfpreowned.com)
+[Callaway Golf Preowned](https://callawaygolfpreowned.com/)
 ![Image of Louis](https://golf.com/wp-content/uploads/2021/07/louis-oosthuizen-1.jpg)
 
 
