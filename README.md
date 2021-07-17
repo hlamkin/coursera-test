@@ -1,3 +1,11 @@
+# Heath's Golf Shop
+
+```markdown
+Buy one, get one 15% off!
+![Image of Golf](https://golf.com/wp-content/uploads/2021/07/louis-oosthuizen-1.jpg)
+
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hlamkin/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
