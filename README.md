@@ -2,9 +2,11 @@
 
 ```markdown
 Buy one, get one 15% off!
-![Image of Golf](https://golf.com/wp-content/uploads/2021/07/louis-oosthuizen-1.jpg)
+
 
 ```
+![Image of Louis](https://golf.com/wp-content/uploads/2021/07/louis-oosthuizen-1.jpg)
+
 
 ## Welcome to GitHub Pages
 
